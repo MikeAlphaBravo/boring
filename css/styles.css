@@ -1,0 +1,17 @@
+.intro {
+  text-align: center;
+  color: blue;
+}
+
+.different {
+  text-align: justify;
+  color: red;
+  font-size: 40px;
+  padding-left: 50px;
+}
+.bureacracy {
+  text-align: right;
+  color: aquamarine;
+  font-size: 30px;
+  background-color: gray;
+}
